@@ -225,4 +225,4 @@ input.onSound(DetectedSound.Loud, function () {
 })
 basic.showIcon(IconNames.Asleep)
 input.setSoundThreshold(SoundThreshold.Loud, 255)
-music.setVolume(90)
+music.setVolume(83)
