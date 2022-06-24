@@ -224,4 +224,4 @@ input.onSound(DetectedSound.Loud, function () {
         `)
 })
 basic.showIcon(IconNames.Asleep)
-input.setSoundThreshold(SoundThreshold.Loud, 225)
+input.setSoundThreshold(SoundThreshold.Loud, 255)
